@@ -1,4 +1,6 @@
-## Naftaly H. Minsky
+```
+title: Naftaly H. Minsky
+```
 
 - [Homepage at Rutgers](https://people.cs.rutgers.edu/~minsky/)
 
